@@ -1,0 +1,3 @@
+/home/cc/Desktop/avod-master/wavedata/wavedata/tools/core/lib/CMakeFiles/integral_images_3d.dir
+/home/cc/Desktop/avod-master/wavedata/wavedata/tools/core/lib/CMakeFiles/edit_cache.dir
+/home/cc/Desktop/avod-master/wavedata/wavedata/tools/core/lib/CMakeFiles/rebuild_cache.dir
